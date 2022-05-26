@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LipSoon
-- 👀 I’m interested in 
+- 👀 I’m interested in Front-End Web Develop
 - 🌱 I’m currently learning HTML, CSS, Responsive Web Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
